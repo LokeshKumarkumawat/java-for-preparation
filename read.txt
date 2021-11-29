@@ -1,0 +1,10 @@
+run java file
+
+
+for java package
+PS F:\java only preparation\Hello World> javac .\HelloWorld.java
+PS F:\java only preparation\Hello World> java HelloWorld     
+
+
+for java file java
+java .\HelloWorld.java
